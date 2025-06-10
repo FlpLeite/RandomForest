@@ -45,15 +45,6 @@ Notebook/
 - Matplotlib & Seaborn
 - Scikit-learn
 
----
-
-## 👨‍💻 Sobre Mim
-
-Sou um estudante de Análise e Desenvolvimento de Sistemas buscando minha primeira oportunidade como desenvolvedor. Este projeto demonstra minha capacidade de aplicar técnicas de ciência de dados de ponta a ponta, de forma prática e organizada.
-
-📫 **Contato**: [Seu LinkedIn aqui] | [Email aqui]
-
----
 
 ## 📌 Próximos Passos
 
@@ -62,7 +53,3 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas buscando minha primei
 - Deploy como API para predição online
 
 ---
-
-## ⭐ Se você é recrutador...
-
-Este projeto mostra meu comprometimento com aprendizado contínuo, atenção a boas práticas e minha paixão por resolver problemas com código. Agradeço por visitar meu repositório!
